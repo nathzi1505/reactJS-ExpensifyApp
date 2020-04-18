@@ -6,7 +6,6 @@ import AddExpensePage from '../components/AddExpensePage'
 import EditExpensePage from '../components/EditExpensePage'
 import LoginPage from '../components/LoginPage'
 import NotFoundPage from '../components/NotFoundPage'
-import Header from '../components/Header'
 import PrivateRoute from './PrivateRoute'
 import PublicRoute from './PublicRoute'
 
